@@ -6,7 +6,7 @@ Web 3.0 Developer
 
 Web 2.0 programmer jumped into Blockchain and Currently learning and working as a Web 3.0 front-end Dev.
 
-* 🌍  I'm based in I'm based in Pakistan, Lahore
+* 🌍  I'm based in Pakistan, Lahore
 * ✉️  You can contact me at [merrygold643@gmail.com](mailto:merrygold643@gmail.com)
 * 🧠  I'm learning fundamentals of Blockchain, Internet, Computer Systems & AI.
 * 🤝  I'm open to collaborating on Web3 Projects, Blockchain Research, Web2 projects
